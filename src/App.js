@@ -5,7 +5,6 @@ import './MyComponent/Header.css';
 import { Puzzle } from "./MyComponent/Puzzle";
 
 function App() {
-  let a = 33;
   return (
     <>
       <Header/>
